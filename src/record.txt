@@ -1,0 +1,6 @@
+Teacher{fullName=vikash, age=23, dateOfBirth=19/01/2001, numberOfClasses=4}
+Teacher{fullName=shivam, age=24, dateOfBirth=19/01/2002, numberOfClasses=6}
+Teacher{fullName=shubham, age=25, dateOfBirth=19/01/2003, numberOfClasses=2}
+Teacher{fullName=rancho, age=26, dateOfBirth=19/01/2000, numberOfClasses=3}
+Teacher{fullName=paras, age=22, dateOfBirth=19/01/2006, numberOfClasses=1}
+Teacher{fullName=pushpak, age=21, dateOfBirth=19/01/2005, numberOfClasses=5}
